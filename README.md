@@ -1,4 +1,4 @@
-# Valentine's Day Interactive Page
+# Bestie's Day Interactive Page
 
 A fun, interactive Valentine's Day page where the "Yes" button grows bigger every time they click "No" — with falling hearts, cute GIFs, music, and playful toast messages. Built with pure HTML, CSS, and JavaScript.
 
@@ -7,7 +7,7 @@ A fun, interactive Valentine's Day page where the "Yes" button grows bigger ever
 
 ---
 
-## Want to Use This to Impress Your GF/Wife?
+## Want to Use This to Impress Your Bestie?
 
 You've got three options — pick whatever works for you.
 
@@ -91,8 +91,8 @@ Want something completely unique? Use AI to build it.
 ## Project Structure
 
 ```
-v-day/
-├── index.html       # Main page — "Will you be my Valentine?"
+B-day/
+├── index.html       # Main page — "Will you be my Bestie?"
 ├── yes.html         # Celebration page after they say Yes
 ├── script.js        # Main page logic (button growth, GIF swaps, toasts)
 ├── yes-script.js    # Celebration page animations
