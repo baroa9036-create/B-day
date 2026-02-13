@@ -1,8 +1,8 @@
 # Bestie's Day Interactive Page
 
-A fun, interactive Valentine's Day page where the "Yes" button grows bigger every time they click "No" — with falling hearts, cute GIFs, music, and playful toast messages. Built with pure HTML, CSS, and JavaScript.
+A fun, interactive Bestie's Day page where the "Yes" button grows bigger every time they click "No" — with falling hearts, cute GIFs, music, and playful toast messages. Built with pure HTML, CSS, and JavaScript.
 
-**Live demo:** [sahilgogna.github.io/v-day](https://sahilgogna.github.io/v-day)
+**Live demo:** [sahilgogna.github.io/B-day](https://sahilgogna.github.io/B-day)
 
 
 ---
@@ -18,7 +18,7 @@ You've got three options — pick whatever works for you.
 No setup needed. Just send this link:
 
 ```
-https://sahilgogna.github.io/v-day
+https://sahilgogna.github.io/B-day
 ```
 
 That's it. Done. You're welcome.
@@ -30,7 +30,7 @@ That's it. Done. You're welcome.
 Want your own version you can customize? Follow these steps:
 
 #### 1. Fork the Repo
-- Go to [github.com/SahilGogna/v-day](https://github.com/SahilGogna/v-day)
+- Go to [github.com/SahilGogna/B-day](https://github.com/SahilGogna/B-day)
 - Click the **Fork** button in the top-right corner
 - This creates a copy of the repo under your GitHub account
 
@@ -45,7 +45,7 @@ Want your own version you can customize? Follow these steps:
 - GitHub will build and deploy your site
 - Your site will be live at:
   ```
-  https://yourusername.github.io/v-day
+  https://baroa9036.github.io/B-day
   ```
   (Replace `yourusername` with your actual GitHub username)
 
@@ -70,9 +70,9 @@ Want something completely unique? Use AI to build it.
 
 #### 2. Describe What You Want
 - Tell it exactly what you're imagining. Some ideas:
-  - Falling hearts animation with a love letter reveal
+  - Falling hearts animation with a friendly love letter reveal
   - Interactive story where they choose their adventure
-  - A countdown to Valentine's Day with daily messages
+  - A countdown to Bestie's Day with daily messages
   - A quiz about your relationship
   - Whatever your heart desires — literally
 
